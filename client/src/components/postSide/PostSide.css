@@ -1,0 +1,9 @@
+.PostSide{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: 100vh;
+    flex:5;
+    /* only option that will be needed to change it to insta like */
+    /* overflow: auto; */
+}
